@@ -1,6 +1,4 @@
 # Achy12
-Human id
+Human id...
+
 Hi... im human studying code in Institut Informatika Indonesia (IKADO)
- /\___/\
-(  .  . )
-/  >❤️  \
